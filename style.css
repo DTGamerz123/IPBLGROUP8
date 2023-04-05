@@ -1,0 +1,13 @@
+body{
+	background-color: #3256a8;
+}
+#head{
+	color: white;
+	text-align: center;
+}
+.link{
+	color: #d0ff00;
+	text-align: center;
+	text-decoration:none;
+	font-size: 30px;
+}
